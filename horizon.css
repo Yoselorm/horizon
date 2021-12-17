@@ -1,0 +1,25 @@
+.col-md-12{
+    position: relative;
+    width: 100%;
+    padding-right: 0px; 
+    padding-left: 0px;
+    margin-bottom: 60px;
+}
+
+.carouselpic{
+	height: 550px;
+	
+}
+
+.plans{
+	margin-bottom:2rem;
+}
+.bg-light {
+    background-color: #fff!important;
+}
+.footer{
+	margin-top: 5rem;
+	background-color: #0d1945;
+
+}
+
